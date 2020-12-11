@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "cstdlib": "cpp",
+        "*.tcc": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c"
+    }
+}
